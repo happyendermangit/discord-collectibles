@@ -53,7 +53,7 @@ const collectibles = [
 				"price": 599,
 				"prices": {
 					"4": {
-						"country_prices": {
+						"countryPrices": {
 							"country_code": null,
 							"prices": [
 								{
@@ -65,7 +65,7 @@ const collectibles = [
 						}
 					},
 					"0": {
-						"country_prices": {
+						"countryPrices": {
 							"country_code": null,
 							"prices": [
 								{
@@ -118,7 +118,7 @@ const collectibles = [
 				"price": 599,
 				"prices": {
 					"4": {
-						"country_prices": {
+						"countryPrices": {
 							"country_code": null,
 							"prices": [
 								{
@@ -130,7 +130,7 @@ const collectibles = [
 						}
 					},
 					"0": {
-						"country_prices": {
+						"countryPrices": {
 							"country_code": null,
 							"prices": [
 								{
@@ -183,7 +183,7 @@ const collectibles = [
 				"price": 599,
 				"prices": {
 					"4": {
-						"country_prices": {
+						"countryPrices": {
 							"country_code": null,
 							"prices": [
 								{
@@ -195,7 +195,7 @@ const collectibles = [
 						}
 					},
 					"0": {
-						"country_prices": {
+						"countryPrices": {
 							"country_code": null,
 							"prices": [
 								{
@@ -248,7 +248,7 @@ const collectibles = [
 				"price": 599,
 				"prices": {
 					"4": {
-						"country_prices": {
+						"countryPrices": {
 							"country_code": null,
 							"prices": [
 								{
@@ -260,7 +260,7 @@ const collectibles = [
 						}
 					},
 					"0": {
-						"country_prices": {
+						"countryPrices": {
 							"country_code": null,
 							"prices": [
 								{
@@ -313,7 +313,7 @@ const collectibles = [
 				"price": 599,
 				"prices": {
 					"4": {
-						"country_prices": {
+						"countryPrices": {
 							"country_code": null,
 							"prices": [
 								{
@@ -325,7 +325,7 @@ const collectibles = [
 						}
 					},
 					"0": {
-						"country_prices": {
+						"countryPrices": {
 							"country_code": null,
 							"prices": [
 								{
@@ -378,7 +378,7 @@ const collectibles = [
 				"price": 599,
 				"prices": {
 					"4": {
-						"country_prices": {
+						"countryPrices": {
 							"country_code": null,
 							"prices": [
 								{
@@ -390,7 +390,7 @@ const collectibles = [
 						}
 					},
 					"0": {
-						"country_prices": {
+						"countryPrices": {
 							"country_code": null,
 							"prices": [
 								{
@@ -443,7 +443,7 @@ const collectibles = [
 				"price": 599,
 				"prices": {
 					"4": {
-						"country_prices": {
+						"countryPrices": {
 							"country_code": null,
 							"prices": [
 								{
@@ -455,7 +455,7 @@ const collectibles = [
 						}
 					},
 					"0": {
-						"country_prices": {
+						"countryPrices": {
 							"country_code": null,
 							"prices": [
 								{
@@ -506,7 +506,7 @@ const collectibles = [
 				"price": 599,
 				"prices": {
 					"4": {
-						"country_prices": {
+						"countryPrices": {
 							"country_code": null,
 							"prices": [
 								{
@@ -518,7 +518,7 @@ const collectibles = [
 						}
 					},
 					"0": {
-						"country_prices": {
+						"countryPrices": {
 							"country_code": null,
 							"prices": [
 								{
@@ -569,7 +569,7 @@ const collectibles = [
 				"price": 599,
 				"prices": {
 					"4": {
-						"country_prices": {
+						"countryPrices": {
 							"country_code": null,
 							"prices": [
 								{
@@ -581,7 +581,7 @@ const collectibles = [
 						}
 					},
 					"0": {
-						"country_prices": {
+						"countryPrices": {
 							"country_code": null,
 							"prices": [
 								{
@@ -660,7 +660,7 @@ const collectibles = [
 				"price": 599,
 				"prices": {
 					"4": {
-						"country_prices": {
+						"countryPrices": {
 							"country_code": null,
 							"prices": [
 								{
@@ -672,7 +672,7 @@ const collectibles = [
 						}
 					},
 					"0": {
-						"country_prices": {
+						"countryPrices": {
 							"country_code": null,
 							"prices": [
 								{
@@ -725,7 +725,7 @@ const collectibles = [
 				"price": 599,
 				"prices": {
 					"4": {
-						"country_prices": {
+						"countryPrices": {
 							"country_code": null,
 							"prices": [
 								{
@@ -737,7 +737,7 @@ const collectibles = [
 						}
 					},
 					"0": {
-						"country_prices": {
+						"countryPrices": {
 							"country_code": null,
 							"prices": [
 								{
@@ -790,7 +790,7 @@ const collectibles = [
 				"price": 599,
 				"prices": {
 					"4": {
-						"country_prices": {
+						"countryPrices": {
 							"country_code": null,
 							"prices": [
 								{
@@ -802,7 +802,7 @@ const collectibles = [
 						}
 					},
 					"0": {
-						"country_prices": {
+						"countryPrices": {
 							"country_code": null,
 							"prices": [
 								{
@@ -855,7 +855,7 @@ const collectibles = [
 				"price": 599,
 				"prices": {
 					"4": {
-						"country_prices": {
+						"countryPrices": {
 							"country_code": null,
 							"prices": [
 								{
@@ -867,7 +867,7 @@ const collectibles = [
 						}
 					},
 					"0": {
-						"country_prices": {
+						"countryPrices": {
 							"country_code": null,
 							"prices": [
 								{
@@ -920,7 +920,7 @@ const collectibles = [
 				"price": 599,
 				"prices": {
 					"4": {
-						"country_prices": {
+						"countryPrices": {
 							"country_code": null,
 							"prices": [
 								{
@@ -932,7 +932,7 @@ const collectibles = [
 						}
 					},
 					"0": {
-						"country_prices": {
+						"countryPrices": {
 							"country_code": null,
 							"prices": [
 								{
@@ -983,7 +983,7 @@ const collectibles = [
 				"price": 599,
 				"prices": {
 					"4": {
-						"country_prices": {
+						"countryPrices": {
 							"country_code": null,
 							"prices": [
 								{
@@ -995,7 +995,7 @@ const collectibles = [
 						}
 					},
 					"0": {
-						"country_prices": {
+						"countryPrices": {
 							"country_code": null,
 							"prices": [
 								{
