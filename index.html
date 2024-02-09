@@ -220,7 +220,7 @@
         function generateTable(products){
             let table = ``
             let avatar_decos_table = "<h1>Avatar decorations:</h1><table><tr><th>Name</th><th>Summary</th><th>Preview</th><th>SKU id</th><th>Price (non-nitro price)</th><th>Price (nitro price)</th><th>Asset ID</th></tr>"
-            let profile_effects_table = "<h1>Profile effects:</h1><table><tr><th>Name</th><th>Summary</th><th>Preview</th><th>SKU id</th><th>Price (non-nitro price)</th></tr>"
+            let profile_effects_table = "<h1>Profile effects:</h1><table><tr><th>Name</th><th>Summary</th><th>Preview</th><th>SKU id</th><th>Price (non-nitro price)</th><th>Price (nitro price)</th></tr>"
 
             for (product of products){
               if (product.items[0].type === 0){
@@ -240,8 +240,9 @@
                    <td>${product.summary}</td>
                    <td><img src="${getProfileEffectPreview(product)}" style="width:fit-content;height:500px"></img></td>
                    <td>${product.items[0].sku_id}</td>
-                   <td>${formatPrice(product.price)}</td>
-                   </tr>`
+                   <td>${formatPrice(product.prices[0].countryPrices.prices[0].amount)}</td>
+                   <td>${formatPrice(product.prices[4].countryPrices.prices[0].amount)}</td>
+                  </tr>`
                }
             }
             avatar_decos_table+= `</table>`
