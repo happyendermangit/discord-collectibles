@@ -1,5 +1,1026 @@
 const collectibles = [
     {
+		"sku_id": "1202069709281828935",
+		"store_listing_id": "1202069648351170580",
+		"banner": "1202069953306689626",
+		"name": "Lunar New Year",
+		"summary": "Roar into the Year of the Dragon.",
+		"unpublished_at": null,
+		"styles": {
+			"background_colors": [
+				9240576,
+				5963776
+			],
+			"button_colors": [
+				16756998,
+				16747008
+			],
+			"confetti_colors": [
+				43772,
+				15774258,
+				16414587,
+				3000177,
+				9739511
+			]
+		},
+		"logo": "1202069746653352057",
+		"products": [
+			{
+				"sku_id": "1202070083816661043",
+				"store_listing_id": "1202070059212877914",
+				"banner": "1202069953306689626",
+				"name": "Fan Flourish",
+				"summary": "Incredibly fan-tastic.",
+				"unpublished_at": null,
+				"styles": {
+					"background_colors": [
+						9240576,
+						5963776
+					],
+					"button_colors": [
+						16756998,
+						16747008
+					],
+					"confetti_colors": [
+						43772,
+						15774258,
+						16414587,
+						3000177,
+						9739511
+					]
+				},
+				"currency": "usd",
+				"price": 599,
+				"prices": {
+					"4": {
+						"country_prices": {
+							"country_code": null,
+							"prices": [
+								{
+									"amount": 499,
+									"currency": "usd",
+									"exponent": 2
+								}
+							]
+						}
+					},
+					"0": {
+						"country_prices": {
+							"country_code": null,
+							"prices": [
+								{
+									"amount": 599,
+									"currency": "usd",
+									"exponent": 2
+								}
+							]
+						}
+					}
+				},
+				"items": [
+					{
+						"type": 0,
+						"id": "1202073087265476648",
+						"sku_id": "1202070083816661043",
+						"asset": "a_9d2ff9685be0c668ef6990b0035fac17",
+						"label": "A fan sits to the left of the avatar with plum blossoms. The fan expands for a moment, shielding the avatar from your gaze, before closing with an acrobatic movement."
+					}
+				],
+				"type": 0,
+				"premium_type": 0,
+				"category_sku_id": "1202069709281828935"
+			},
+			{
+				"sku_id": "1202073882111266846",
+				"store_listing_id": "1202073842453848134",
+				"banner": "1202069953306689626",
+				"name": "Lunar Lanterns",
+				"summary": "Light the night.",
+				"unpublished_at": null,
+				"styles": {
+					"background_colors": [
+						9240576,
+						5963776
+					],
+					"button_colors": [
+						16756998,
+						16747008
+					],
+					"confetti_colors": [
+						43772,
+						15774258,
+						16414587,
+						3000177,
+						9739511
+					]
+				},
+				"currency": "usd",
+				"price": 599,
+				"prices": {
+					"4": {
+						"country_prices": {
+							"country_code": null,
+							"prices": [
+								{
+									"amount": 499,
+									"currency": "usd",
+									"exponent": 2
+								}
+							]
+						}
+					},
+					"0": {
+						"country_prices": {
+							"country_code": null,
+							"prices": [
+								{
+									"amount": 599,
+									"currency": "usd",
+									"exponent": 2
+								}
+							]
+						}
+					}
+				},
+				"items": [
+					{
+						"type": 0,
+						"id": "1202073907918798848",
+						"sku_id": "1202073882111266846",
+						"asset": "a_63b29ec5b1ea6bb01c2251049838d822",
+						"label": "From on top of the avatar, a tiled roof sits with lanterns swinging back and forth in the breeze."
+					}
+				],
+				"type": 0,
+				"premium_type": 0,
+				"category_sku_id": "1202069709281828935"
+			},
+			{
+				"sku_id": "1202073775840178206",
+				"store_listing_id": "1202073751051567184",
+				"banner": "1202069953306689626",
+				"name": "Firecrackers",
+				"summary": "Don't try this at home!",
+				"unpublished_at": null,
+				"styles": {
+					"background_colors": [
+						9240576,
+						5963776
+					],
+					"button_colors": [
+						16756998,
+						16747008
+					],
+					"confetti_colors": [
+						43772,
+						15774258,
+						16414587,
+						3000177,
+						9739511
+					]
+				},
+				"currency": "usd",
+				"price": 599,
+				"prices": {
+					"4": {
+						"country_prices": {
+							"country_code": null,
+							"prices": [
+								{
+									"amount": 499,
+									"currency": "usd",
+									"exponent": 2
+								}
+							]
+						}
+					},
+					"0": {
+						"country_prices": {
+							"country_code": null,
+							"prices": [
+								{
+									"amount": 599,
+									"currency": "usd",
+									"exponent": 2
+								}
+							]
+						}
+					}
+				},
+				"items": [
+					{
+						"type": 0,
+						"id": "1202073807658164295",
+						"sku_id": "1202073775840178206",
+						"asset": "a_0f4f1b40921ce680b60007e94427d1f2",
+						"label": "A string of firecrackers appears to the left of the avatar, and after a moment, lights off with a flurry of sparks!"
+					}
+				],
+				"type": 0,
+				"premium_type": 0,
+				"category_sku_id": "1202069709281828935"
+			},
+			{
+				"sku_id": "1202073975178665984",
+				"store_listing_id": "1202073966538403890",
+				"banner": "1202069953306689626",
+				"name": "Dragon's Smile",
+				"summary": "A dragon's grin fills your year with laughs.",
+				"unpublished_at": null,
+				"styles": {
+					"background_colors": [
+						9240576,
+						5963776
+					],
+					"button_colors": [
+						16756998,
+						16747008
+					],
+					"confetti_colors": [
+						43772,
+						15774258,
+						16414587,
+						3000177,
+						9739511
+					]
+				},
+				"currency": "usd",
+				"price": 599,
+				"prices": {
+					"4": {
+						"country_prices": {
+							"country_code": null,
+							"prices": [
+								{
+									"amount": 499,
+									"currency": "usd",
+									"exponent": 2
+								}
+							]
+						}
+					},
+					"0": {
+						"country_prices": {
+							"country_code": null,
+							"prices": [
+								{
+									"amount": 599,
+									"currency": "usd",
+									"exponent": 2
+								}
+							]
+						}
+					}
+				},
+				"items": [
+					{
+						"type": 0,
+						"id": "1202073979167461406",
+						"sku_id": "1202073975178665984",
+						"asset": "a_445566ed965b2c1632a5b45c92f32d11",
+						"label": "A dragon's mouth perches precariously around the avatar. In a swift movement, the dragon chomps down, smiling and revealing its face."
+					}
+				],
+				"type": 0,
+				"premium_type": 0,
+				"category_sku_id": "1202069709281828935"
+			},
+			{
+				"sku_id": "1202445890909110323",
+				"store_listing_id": "1202445845954297956",
+				"banner": "1202069953306689626",
+				"name": "Lucky Envelopes",
+				"summary": "Capacity: 888 coins.",
+				"unpublished_at": null,
+				"styles": {
+					"background_colors": [
+						9240576,
+						5963776
+					],
+					"button_colors": [
+						16756998,
+						16747008
+					],
+					"confetti_colors": [
+						43772,
+						15774258,
+						16414587,
+						3000177,
+						9739511
+					]
+				},
+				"currency": "usd",
+				"price": 599,
+				"prices": {
+					"4": {
+						"country_prices": {
+							"country_code": null,
+							"prices": [
+								{
+									"amount": 499,
+									"currency": "usd",
+									"exponent": 2
+								}
+							]
+						}
+					},
+					"0": {
+						"country_prices": {
+							"country_code": null,
+							"prices": [
+								{
+									"amount": 599,
+									"currency": "usd",
+									"exponent": 2
+								}
+							]
+						}
+					}
+				},
+				"items": [
+					{
+						"type": 0,
+						"id": "1202445980377817179",
+						"sku_id": "1202445890909110323",
+						"asset": "a_1b1df0ae8c2d34afd85da5c22a0d761a",
+						"label": "Two red envelopes sit on the left side of the avatar. One envelope moves forward and opens up to ingest a number of gold coins."
+					}
+				],
+				"type": 0,
+				"premium_type": 0,
+				"category_sku_id": "1202069709281828935"
+			},
+			{
+				"sku_id": "1202074101343322184",
+				"store_listing_id": "1202074096133734461",
+				"banner": "1202069953306689626",
+				"name": "Koi Pond",
+				"summary": "Swimming in an eternal, peaceful circle.",
+				"unpublished_at": null,
+				"styles": {
+					"background_colors": [
+						9240576,
+						5963776
+					],
+					"button_colors": [
+						16756998,
+						16747008
+					],
+					"confetti_colors": [
+						43772,
+						15774258,
+						16414587,
+						3000177,
+						9739511
+					]
+				},
+				"currency": "usd",
+				"price": 599,
+				"prices": {
+					"4": {
+						"country_prices": {
+							"country_code": null,
+							"prices": [
+								{
+									"amount": 499,
+									"currency": "usd",
+									"exponent": 2
+								}
+							]
+						}
+					},
+					"0": {
+						"country_prices": {
+							"country_code": null,
+							"prices": [
+								{
+									"amount": 599,
+									"currency": "usd",
+									"exponent": 2
+								}
+							]
+						}
+					}
+				},
+				"items": [
+					{
+						"type": 0,
+						"id": "1202074104945971311",
+						"sku_id": "1202074101343322184",
+						"asset": "a_50b440810b1bbd89f6284f36d40ad0af",
+						"label": "Two koi fish swimming beneath the water covering the avatar surface, and dive down repeatedly as they swim in circles."
+					}
+				],
+				"type": 0,
+				"premium_type": 0,
+				"category_sku_id": "1202069709281828935"
+			},
+			{
+				"sku_id": "1202061726212947968",
+				"store_listing_id": "1202074313809723402",
+				"banner": "1202069953306689626",
+				"name": "Dragon Dance",
+				"summary": "No evil spirits on my watch.",
+				"unpublished_at": null,
+				"styles": {
+					"background_colors": [
+						9240576,
+						5963776
+					],
+					"button_colors": [
+						16756998,
+						16747008
+					],
+					"confetti_colors": [
+						43772,
+						15774258,
+						16414587,
+						3000177,
+						9739511
+					]
+				},
+				"currency": "usd",
+				"price": 599,
+				"prices": {
+					"4": {
+						"country_prices": {
+							"country_code": null,
+							"prices": [
+								{
+									"amount": 499,
+									"currency": "usd",
+									"exponent": 2
+								}
+							]
+						}
+					},
+					"0": {
+						"country_prices": {
+							"country_code": null,
+							"prices": [
+								{
+									"amount": 599,
+									"currency": "usd",
+									"exponent": 2
+								}
+							]
+						}
+					}
+				},
+				"items": [
+					{
+						"type": 1,
+						"id": "1202061575339376741",
+						"sku_id": "1202061726212947968"
+					}
+				],
+				"type": 1,
+				"premium_type": 0,
+				"category_sku_id": "1202069709281828935"
+			},
+			{
+				"sku_id": "1202059628112777256",
+				"store_listing_id": "1202074292540674118",
+				"banner": "1202069953306689626",
+				"name": "Fortune Flurry",
+				"summary": "May fortune come your way!",
+				"unpublished_at": null,
+				"styles": {
+					"background_colors": [
+						9240576,
+						5963776
+					],
+					"button_colors": [
+						16756998,
+						16747008
+					],
+					"confetti_colors": [
+						43772,
+						15774258,
+						16414587,
+						3000177,
+						9739511
+					]
+				},
+				"currency": "usd",
+				"price": 599,
+				"prices": {
+					"4": {
+						"country_prices": {
+							"country_code": null,
+							"prices": [
+								{
+									"amount": 499,
+									"currency": "usd",
+									"exponent": 2
+								}
+							]
+						}
+					},
+					"0": {
+						"country_prices": {
+							"country_code": null,
+							"prices": [
+								{
+									"amount": 599,
+									"currency": "usd",
+									"exponent": 2
+								}
+							]
+						}
+					}
+				},
+				"items": [
+					{
+						"type": 1,
+						"id": "1202058906738622514",
+						"sku_id": "1202059628112777256"
+					}
+				],
+				"type": 1,
+				"premium_type": 0,
+				"category_sku_id": "1202069709281828935"
+			},
+			{
+				"sku_id": "1202061510529257522",
+				"store_listing_id": "1202074296223289355",
+				"banner": "1202069953306689626",
+				"name": "Midnight Celebration",
+				"summary": "Protection and prosperity guaranteed.",
+				"unpublished_at": null,
+				"styles": {
+					"background_colors": [
+						9240576,
+						5963776
+					],
+					"button_colors": [
+						16756998,
+						16747008
+					],
+					"confetti_colors": [
+						43772,
+						15774258,
+						16414587,
+						3000177,
+						9739511
+					]
+				},
+				"currency": "usd",
+				"price": 599,
+				"prices": {
+					"4": {
+						"country_prices": {
+							"country_code": null,
+							"prices": [
+								{
+									"amount": 499,
+									"currency": "usd",
+									"exponent": 2
+								}
+							]
+						}
+					},
+					"0": {
+						"country_prices": {
+							"country_code": null,
+							"prices": [
+								{
+									"amount": 599,
+									"currency": "usd",
+									"exponent": 2
+								}
+							]
+						}
+					}
+				},
+				"items": [
+					{
+						"type": 1,
+						"id": "1202061433689350204",
+						"sku_id": "1202061510529257522"
+					}
+				],
+				"type": 1,
+				"premium_type": 0,
+				"category_sku_id": "1202069709281828935"
+			}
+		]
+	},
+	{
+		"sku_id": "1197342727608746044",
+		"store_listing_id": "1197342697200029767",
+		"banner": "1197343893742694470",
+		"name": "Cyberpunk",
+		"summary": "Welcome to the neon embrace of the future.",
+		"unpublished_at": null,
+		"styles": {
+			"background_colors": [
+				2102637,
+				459264
+			],
+			"button_colors": [
+				4801242,
+				3552948
+			],
+			"confetti_colors": [
+				43772,
+				15774258,
+				16414587,
+				3000177,
+				9739511
+			]
+		},
+		"logo": "1197343875023523930",
+		"products": [
+			{
+				"sku_id": "1197344326133502032",
+				"store_listing_id": "1197344306210545775",
+				"banner": "1197343893742694470",
+				"name": "Glitch",
+				"summary": "Neurovisor disruption detected, please standby.",
+				"unpublished_at": null,
+				"styles": {
+					"background_colors": [
+						2102637,
+						459264
+					],
+					"button_colors": [
+						4801242,
+						3552948
+					],
+					"confetti_colors": [
+						43772,
+						15774258,
+						16414587,
+						3000177,
+						9739511
+					]
+				},
+				"currency": "usd",
+				"price": 599,
+				"prices": {
+					"4": {
+						"country_prices": {
+							"country_code": null,
+							"prices": [
+								{
+									"amount": 499,
+									"currency": "usd",
+									"exponent": 2
+								}
+							]
+						}
+					},
+					"0": {
+						"country_prices": {
+							"country_code": null,
+							"prices": [
+								{
+									"amount": 599,
+									"currency": "usd",
+									"exponent": 2
+								}
+							]
+						}
+					}
+				},
+				"items": [
+					{
+						"type": 0,
+						"id": "1197344345783808161",
+						"sku_id": "1197344326133502032",
+						"asset": "a_e90ebc0114e7bdc30353c8b11953ea41",
+						"label": "Something disrupted the neurovisor connection. The signal appears as static over the avatar. Better call Repairs."
+					}
+				],
+				"type": 0,
+				"premium_type": 0,
+				"category_sku_id": "1197342727608746044"
+			},
+			{
+				"sku_id": "1197344396983664670",
+				"store_listing_id": "1197344381393444905",
+				"banner": "1197343893742694470",
+				"name": "Cybernetic",
+				"summary": "Cybernetic visuals now online. Welcome aboard, runner.",
+				"unpublished_at": null,
+				"styles": {
+					"background_colors": [
+						2102637,
+						459264
+					],
+					"button_colors": [
+						4801242,
+						3552948
+					],
+					"confetti_colors": [
+						43772,
+						15774258,
+						16414587,
+						3000177,
+						9739511
+					]
+				},
+				"currency": "usd",
+				"price": 599,
+				"prices": {
+					"4": {
+						"country_prices": {
+							"country_code": null,
+							"prices": [
+								{
+									"amount": 499,
+									"currency": "usd",
+									"exponent": 2
+								}
+							]
+						}
+					},
+					"0": {
+						"country_prices": {
+							"country_code": null,
+							"prices": [
+								{
+									"amount": 599,
+									"currency": "usd",
+									"exponent": 2
+								}
+							]
+						}
+					}
+				},
+				"items": [
+					{
+						"type": 0,
+						"id": "1197344413718949938",
+						"sku_id": "1197344396983664670",
+						"asset": "a_c6b3bc1dc49e5b284dca0b6437831004",
+						"label": "A glowing neon HUD overlays the avatar, locking on to a target."
+					}
+				],
+				"type": 0,
+				"premium_type": 0,
+				"category_sku_id": "1197342727608746044"
+			},
+			{
+				"sku_id": "1197344575832981605",
+				"store_listing_id": "1197344448309370991",
+				"banner": "1197343893742694470",
+				"name": "Digital Sunrise",
+				"summary": "It's a new day in cyberspace.",
+				"unpublished_at": null,
+				"styles": {
+					"background_colors": [
+						2102637,
+						459264
+					],
+					"button_colors": [
+						4801242,
+						3552948
+					],
+					"confetti_colors": [
+						43772,
+						15774258,
+						16414587,
+						3000177,
+						9739511
+					]
+				},
+				"currency": "usd",
+				"price": 599,
+				"prices": {
+					"4": {
+						"country_prices": {
+							"country_code": null,
+							"prices": [
+								{
+									"amount": 499,
+									"currency": "usd",
+									"exponent": 2
+								}
+							]
+						}
+					},
+					"0": {
+						"country_prices": {
+							"country_code": null,
+							"prices": [
+								{
+									"amount": 599,
+									"currency": "usd",
+									"exponent": 2
+								}
+							]
+						}
+					}
+				},
+				"items": [
+					{
+						"type": 0,
+						"id": "1197344598675165204",
+						"sku_id": "1197344575832981605",
+						"asset": "a_cc83efd93ecd6e41857449c3c0ef9b22",
+						"label": "After booting up, a wave of neon colors transforms into a sunset that embraces this avatar. Why do I suddenly feel calmer?"
+					}
+				],
+				"type": 0,
+				"premium_type": 0,
+				"category_sku_id": "1197342727608746044"
+			},
+			{
+				"sku_id": "1197344636558114986",
+				"store_listing_id": "1197344616270274570",
+				"banner": "1197343893742694470",
+				"name": "Implant",
+				"summary": "Get ready to jack in.",
+				"unpublished_at": null,
+				"styles": {
+					"background_colors": [
+						2102637,
+						459264
+					],
+					"button_colors": [
+						4801242,
+						3552948
+					],
+					"confetti_colors": [
+						43772,
+						15774258,
+						16414587,
+						3000177,
+						9739511
+					]
+				},
+				"currency": "usd",
+				"price": 599,
+				"prices": {
+					"4": {
+						"country_prices": {
+							"country_code": null,
+							"prices": [
+								{
+									"amount": 499,
+									"currency": "usd",
+									"exponent": 2
+								}
+							]
+						}
+					},
+					"0": {
+						"country_prices": {
+							"country_code": null,
+							"prices": [
+								{
+									"amount": 599,
+									"currency": "usd",
+									"exponent": 2
+								}
+							]
+						}
+					}
+				},
+				"items": [
+					{
+						"type": 0,
+						"id": "1197344653515690054",
+						"sku_id": "1197344636558114986",
+						"asset": "a_172fa9da0af8698e37f5e5de76637439",
+						"label": "A surge of energy pulses through wires perched on top of this avatar. Electricity dangerously crackles over the image. Be careful with this one!"
+					}
+				],
+				"type": 0,
+				"premium_type": 0,
+				"category_sku_id": "1197342727608746044"
+			},
+			{
+				"sku_id": "1197344693630009424",
+				"store_listing_id": "1197344677754576957",
+				"banner": "1197343893742694470",
+				"name": "Nightrunner",
+				"summary": "Cruisin' the cyber highway.",
+				"unpublished_at": null,
+				"styles": {
+					"background_colors": [
+						2102637,
+						459264
+					],
+					"button_colors": [
+						4801242,
+						3552948
+					],
+					"confetti_colors": [
+						43772,
+						15774258,
+						16414587,
+						3000177,
+						9739511
+					]
+				},
+				"currency": "usd",
+				"price": 599,
+				"prices": {
+					"4": {
+						"country_prices": {
+							"country_code": null,
+							"prices": [
+								{
+									"amount": 499,
+									"currency": "usd",
+									"exponent": 2
+								}
+							]
+						}
+					},
+					"0": {
+						"country_prices": {
+							"country_code": null,
+							"prices": [
+								{
+									"amount": 599,
+									"currency": "usd",
+									"exponent": 2
+								}
+							]
+						}
+					}
+				},
+				"items": [
+					{
+						"type": 1,
+						"id": "1197344710830862356",
+						"sku_id": "1197344693630009424"
+					}
+				],
+				"type": 1,
+				"premium_type": 0,
+				"category_sku_id": "1197342727608746044"
+			},
+			{
+				"sku_id": "1197344764174008452",
+				"store_listing_id": "1197344746121732196",
+				"banner": "1197343893742694470",
+				"name": "Uplink Error",
+				"summary": "Anomaly detected, attempting system reset.",
+				"unpublished_at": null,
+				"styles": {
+					"background_colors": [
+						2102637,
+						459264
+					],
+					"button_colors": [
+						4801242,
+						3552948
+					],
+					"confetti_colors": [
+						43772,
+						15774258,
+						16414587,
+						3000177,
+						9739511
+					]
+				},
+				"currency": "usd",
+				"price": 599,
+				"prices": {
+					"4": {
+						"country_prices": {
+							"country_code": null,
+							"prices": [
+								{
+									"amount": 499,
+									"currency": "usd",
+									"exponent": 2
+								}
+							]
+						}
+					},
+					"0": {
+						"country_prices": {
+							"country_code": null,
+							"prices": [
+								{
+									"amount": 599,
+									"currency": "usd",
+									"exponent": 2
+								}
+							]
+						}
+					}
+				},
+				"items": [
+					{
+						"type": 1,
+						"id": "1197344781060288693",
+						"sku_id": "1197344764174008452"
+					}
+				],
+				"type": 1,
+				"premium_type": 0,
+				"category_sku_id": "1197342727608746044"
+			}
+		]
+	},
+    {
             "storeListingId": "1179493515038818324",
             "sku_id": "1179493515038818325",
             "name": "Monsters",
@@ -4375,6 +5396,11 @@ const collectibles = [
 
 
 const previews = {
+      "Dragon Dance":"https://cdn.discordapp.com/assets/profile_effects/effects/2024-01-31/dragon-dance/thumbnail.png",
+      "Fortune Flurry":"https://cdn.discordapp.com/assets/profile_effects/effects/2024-01-31/fortune-flurry/thumbnail.png",
+      "Midnight Celebration":"https://cdn.discordapp.com/assets/profile_effects/effects/2024-01-31/midnight-celebration/thumbnail.png",
+      "Nightrunner":"https://cdn.discordapp.com/assets/profile_effects/effects/2024-1-16/cyberpunk-nightrunner/thumbnail.png",
+      "Uplink Error":"https://cdn.discordapp.com/assets/profile_effects/effects/2024-1-16/cyberpunk-uplinkerror/thumbnail.png",   
       "Goozilla":"https://cdn.discordapp.com/assets/profile_effects/effects/2023-11-29/goozilla/thumbnail.png",   
       "Heartzilla":"https://cdn.discordapp.com/assets/profile_effects/effects/2023-11-29/heartzilla/thumbnail.png",
       "Monster Pop":"https://cdn.discordapp.com/assets/profile_effects/effects/2023-11-29/monster-pop/thumbnail.png",
