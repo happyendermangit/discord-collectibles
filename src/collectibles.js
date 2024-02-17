@@ -5422,3 +5422,8 @@ const previews = {
       "Deck the halls":"https://cdn.discordapp.com/assets/profile_effects/effects/2023-11-22/deck-the-halls/thumbnail.png",
       "Snowy Shenanigans":"https://cdn.discordapp.com/assets/profile_effects/effects/2023-11-28/snowy-shenanigans/thumbnail.png"
 }
+
+export { 
+    collectibles,
+    previews
+}
