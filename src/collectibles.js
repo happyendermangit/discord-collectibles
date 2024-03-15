@@ -9699,6 +9699,294 @@ const collectibles = [
           },
         ],
       },
+      {
+        "storeListingId": "1139323097930027069",
+        "skuId": "1139323098370424932",
+        "name": "Boost Relic",
+        "summary": "Legends say this could power an entire server...",
+        "banner": "1149562891666731108",
+        "unpublishedAt": null,
+        "styles": {
+            "backgroundColors": [
+                {
+                    "_originalInput": "#732565",
+                    "_r": 115,
+                    "_g": 37,
+                    "_b": 101,
+                    "_a": 1,
+                    "_roundA": 1,
+                    "_format": "hex",
+                    "_ok": true,
+                    "_tc_id": 989
+                },
+                {
+                    "_originalInput": "#111d40",
+                    "_r": 17,
+                    "_g": 29,
+                    "_b": 64,
+                    "_a": 1,
+                    "_roundA": 1,
+                    "_format": "hex",
+                    "_ok": true,
+                    "_tc_id": 990
+                }
+            ],
+            "buttonColors": [
+                {
+                    "_originalInput": "#8547c6",
+                    "_r": 133,
+                    "_g": 71,
+                    "_b": 198,
+                    "_a": 1,
+                    "_roundA": 1,
+                    "_format": "hex",
+                    "_ok": true,
+                    "_tc_id": 991
+                },
+                {
+                    "_originalInput": "#b845c1",
+                    "_r": 184,
+                    "_g": 69,
+                    "_b": 193,
+                    "_a": 1,
+                    "_roundA": 1,
+                    "_format": "hex",
+                    "_ok": true,
+                    "_tc_id": 992
+                }
+            ],
+            "confettiColors": [
+                {
+                    "_originalInput": "#f53273",
+                    "_r": 245,
+                    "_g": 50,
+                    "_b": 115,
+                    "_a": 1,
+                    "_roundA": 1,
+                    "_format": "hex",
+                    "_ok": true,
+                    "_tc_id": 993
+                },
+                {
+                    "_originalInput": "#9595ff",
+                    "_r": 149,
+                    "_g": 149,
+                    "_b": 255,
+                    "_a": 1,
+                    "_roundA": 1,
+                    "_format": "hex",
+                    "_ok": true,
+                    "_tc_id": 994
+                },
+                {
+                    "_originalInput": "#a7fa4e",
+                    "_r": 167,
+                    "_g": 250,
+                    "_b": 78,
+                    "_a": 1,
+                    "_roundA": 1,
+                    "_format": "hex",
+                    "_ok": true,
+                    "_tc_id": 995
+                },
+                {
+                    "_originalInput": "#331eaf",
+                    "_r": 51,
+                    "_g": 30,
+                    "_b": 175,
+                    "_a": 1,
+                    "_roundA": 1,
+                    "_format": "hex",
+                    "_ok": true,
+                    "_tc_id": 996
+                }
+            ]
+        },
+        "type": 1,
+        "premiumType": 2,
+        "items": [
+            {
+                "id": "1139323097930027068",
+                "skuId": "1139323098370424932",
+                "type": 1
+            }
+        ],
+        "categorySkuId": "1144058340327047249",
+        "prices": {
+            "0": {
+                "countryPrices": {
+                    "countryCode": "MA",
+                    "prices": [
+                        {
+                            "amount": 999,
+                            "currency": "usd",
+                            "tax": 0,
+                            "taxInclusive": true
+                        }
+                    ]
+                },
+                "paymentSourcePrices": {}
+            },
+            "4": {
+                "countryPrices": {
+                    "countryCode": "MA",
+                    "prices": [
+                        {
+                            "amount": 0,
+                            "currency": "usd",
+                            "tax": 0,
+                            "taxInclusive": true
+                        }
+                    ]
+                },
+                "paymentSourcePrices": {}
+            }
+        }
+    },
+    {
+      "storeListingId": "1139323103193878568",
+      "skuId": "1139323103193878569",
+      "name": "Cyberspace",
+      "summary": "Witness the entire world in motion.",
+      "banner": "1149562891666731108",
+      "unpublishedAt": null,
+      "styles": {
+          "backgroundColors": [
+              {
+                  "_originalInput": "#732565",
+                  "_r": 115,
+                  "_g": 37,
+                  "_b": 101,
+                  "_a": 1,
+                  "_roundA": 1,
+                  "_format": "hex",
+                  "_ok": true,
+                  "_tc_id": 997
+              },
+              {
+                  "_originalInput": "#111d40",
+                  "_r": 17,
+                  "_g": 29,
+                  "_b": 64,
+                  "_a": 1,
+                  "_roundA": 1,
+                  "_format": "hex",
+                  "_ok": true,
+                  "_tc_id": 998
+              }
+          ],
+          "buttonColors": [
+              {
+                  "_originalInput": "#8547c6",
+                  "_r": 133,
+                  "_g": 71,
+                  "_b": 198,
+                  "_a": 1,
+                  "_roundA": 1,
+                  "_format": "hex",
+                  "_ok": true,
+                  "_tc_id": 999
+              },
+              {
+                  "_originalInput": "#b845c1",
+                  "_r": 184,
+                  "_g": 69,
+                  "_b": 193,
+                  "_a": 1,
+                  "_roundA": 1,
+                  "_format": "hex",
+                  "_ok": true,
+                  "_tc_id": 1000
+              }
+          ],
+          "confettiColors": [
+              {
+                  "_originalInput": "#f53273",
+                  "_r": 245,
+                  "_g": 50,
+                  "_b": 115,
+                  "_a": 1,
+                  "_roundA": 1,
+                  "_format": "hex",
+                  "_ok": true,
+                  "_tc_id": 1001
+              },
+              {
+                  "_originalInput": "#9595ff",
+                  "_r": 149,
+                  "_g": 149,
+                  "_b": 255,
+                  "_a": 1,
+                  "_roundA": 1,
+                  "_format": "hex",
+                  "_ok": true,
+                  "_tc_id": 1002
+              },
+              {
+                  "_originalInput": "#a7fa4e",
+                  "_r": 167,
+                  "_g": 250,
+                  "_b": 78,
+                  "_a": 1,
+                  "_roundA": 1,
+                  "_format": "hex",
+                  "_ok": true,
+                  "_tc_id": 1003
+              },
+              {
+                  "_originalInput": "#331eaf",
+                  "_r": 51,
+                  "_g": 30,
+                  "_b": 175,
+                  "_a": 1,
+                  "_roundA": 1,
+                  "_format": "hex",
+                  "_ok": true,
+                  "_tc_id": 1004
+              }
+          ]
+      },
+      "type": 1,
+      "premiumType": 2,
+      "items": [
+          {
+              "id": "1139323098370424933",
+              "skuId": "1139323103193878569",
+              "type": 1
+          }
+      ],
+      "categorySkuId": "1144058340327047249",
+      "prices": {
+          "0": {
+              "countryPrices": {
+                  "countryCode": "MA",
+                  "prices": [
+                      {
+                          "amount": 999,
+                          "currency": "usd",
+                          "tax": 0,
+                          "taxInclusive": true
+                      }
+                  ]
+              },
+              "paymentSourcePrices": {}
+          },
+          "4": {
+              "countryPrices": {
+                  "countryCode": "MA",
+                  "prices": [
+                      {
+                          "amount": 0,
+                          "currency": "usd",
+                          "tax": 0,
+                          "taxInclusive": true
+                      }
+                  ]
+              },
+              "paymentSourcePrices": {}
+          }
+      }
+  }
     ],
     logo: "1149562888290320414",
   },
@@ -9767,6 +10055,8 @@ const previews = {
     "https://cdn.discordapp.com/assets/profile_effects/effects/2023-11-22/deck-the-halls/thumbnail.png",
   "Snowy Shenanigans":
     "https://cdn.discordapp.com/assets/profile_effects/effects/2023-11-28/snowy-shenanigans/thumbnail.png",
+  "Boost Relic": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-11-7/boost-relic/thumbnail.png",
+  "Cyberspace": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-11-7/cyberspace/thumbnail.png"
 };
 
 export { collectibles, previews };
