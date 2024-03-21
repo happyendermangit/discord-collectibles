@@ -9701,7 +9701,7 @@ const collectibles = [
       },
       {
         "storeListingId": "1139323097930027069",
-        "skuId": "1139323098370424932",
+        "sku_id": "1139323098370424932",
         "name": "Boost Relic",
         "summary": "Legends say this could power an entire server...",
         "banner": "1149562891666731108",
@@ -9807,11 +9807,11 @@ const collectibles = [
         "items": [
             {
                 "id": "1139323097930027068",
-                "skuId": "1139323098370424932",
+                "sku_id": "1139323098370424932",
                 "type": 1
             }
         ],
-        "categorySkuId": "1144058340327047249",
+        "categorysku_id": "1144058340327047249",
         "prices": {
             "0": {
                 "countryPrices": {
@@ -9845,7 +9845,7 @@ const collectibles = [
     },
     {
       "storeListingId": "1139323103193878568",
-      "skuId": "1139323103193878569",
+      "sku_id": "1139323103193878569",
       "name": "Cyberspace",
       "summary": "Witness the entire world in motion.",
       "banner": "1149562891666731108",
@@ -9951,11 +9951,11 @@ const collectibles = [
       "items": [
           {
               "id": "1139323098370424933",
-              "skuId": "1139323103193878569",
+              "sku_id": "1139323103193878569",
               "type": 1
           }
       ],
-      "categorySkuId": "1144058340327047249",
+      "categorysku_id": "1144058340327047249",
       "prices": {
           "0": {
               "countryPrices": {
