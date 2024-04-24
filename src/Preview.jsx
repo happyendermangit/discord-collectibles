@@ -41,6 +41,7 @@ const Preview = (props) => {
                   : previewAvatar
               }
               alt=" "
+              style={{ borderRadius: "50%" }}
               className="avatar-31d8He"
               aria-hidden="true"
             />

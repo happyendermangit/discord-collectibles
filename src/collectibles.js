@@ -14949,6 +14949,253 @@ const collectibles = [
     ],
     logo: "1149562888290320414",
   },
+  {
+    storeListingId: "1217175518781243583",
+    sku_id: "1217175518781243583",
+    name: "Uncategorized",
+    summary: "Items that were for an event, you might not be even able to buy them.",
+    banner: "uncat_banner",
+    logo: "uncat_logo",
+    unpublishedAt: null,
+    products: [
+      {
+        sku_id: "1225876188074082374",
+        store_listing_id: "1225876160542675075",
+        banner: "1217260346872430592",
+        name: "Gyoiko Sakura",
+        summary: "A rare blossom only seen by a fortunate few.",
+        unpublished_at: null,
+        styles: {
+          background_colors: [4620287, 1396431],
+          button_colors: [4507647, 40447],
+          confetti_colors: [4047871, 2718463, 16616447, 16727029],
+        },
+        currency: "usd",
+        price: 0,
+        prices: {
+          0: {
+            countryPrices: {
+              country_code: "MA",
+              prices: [
+                {
+                  amount: 0,
+                  currency: "usd",
+                  exponent: 2,
+                },
+              ],
+            },
+          },
+          4: {
+            countryPrices: {
+              country_code: "MA",
+              prices: [
+                {
+                  amount: 0,
+                  currency: "usd",
+                  exponent: 2,
+                },
+              ],
+            },
+          },
+          5: {
+            countryPrices: {
+              country_code: "MA",
+              prices: [
+                {
+                  amount: 0,
+                  currency: "usd",
+                  exponent: 2,
+                },
+              ],
+            },
+          },
+          7: {
+            countryPrices: {
+              country_code: "MA",
+              prices: [
+                {
+                  amount: 0,
+                  currency: "usd",
+                  exponent: 2,
+                },
+              ],
+            },
+          },
+        },
+        items: [
+          {
+            type: 0,
+            id: "1225876210744033340",
+            sku_id: "1225876188074082374",
+            asset: "a_d6760c807d460b45e06427c09ab61390",
+            label:
+              "The petals of three lovely, green cherry blossoms drift softly across the avatar.",
+          },
+        ],
+        type: 0,
+        premium_type: 2,
+        category_sku_id: "1217175518781243583",
+      },
+      {
+        sku_id: "1216908559548289084",
+        store_listing_id: "1216908510969725138",
+        banner: "1217260346872430592",
+        name: "I'm a Clown",
+        summary:
+          "I opened a bunch of Loot Boxes and all I got was this stupid clown decoration. Available to use until May 2024.",
+        unpublished_at: null,
+        styles: {
+          background_colors: [4620287, 1396431],
+          button_colors: [4507647, 40447],
+          confetti_colors: [4047871, 2718463, 16616447, 16727029],
+        },
+        currency: "usd",
+        price: 0,
+        prices: {
+          0: {
+            countryPrices: {
+              country_code: "MA",
+              prices: [
+                {
+                  amount: 0,
+                  currency: "usd",
+                  exponent: 2,
+                },
+              ],
+            },
+          },
+          4: {
+            countryPrices: {
+              country_code: "MA",
+              prices: [
+                {
+                  amount: 0,
+                  currency: "usd",
+                  exponent: 2,
+                },
+              ],
+            },
+          },
+          5: {
+            countryPrices: {
+              country_code: "MA",
+              prices: [
+                {
+                  amount: 0,
+                  currency: "usd",
+                  exponent: 2,
+                },
+              ],
+            },
+          },
+          7: {
+            countryPrices: {
+              country_code: "MA",
+              prices: [
+                {
+                  amount: 0,
+                  currency: "usd",
+                  exponent: 2,
+                },
+              ],
+            },
+          },
+        },
+        items: [
+          {
+            type: 0,
+            id: "1216909016681156768",
+            sku_id: "1216908559548289084",
+            asset: "a_5e1210779d99ece1c0b4f438a5bc6e72",
+            label:
+              "An avatar wears a vibrant ensemble of colorful clown hair, bowtie, and a striking red nose that balloons and pops.",
+          },
+        ],
+        type: 0,
+        premium_type: 0,
+        category_sku_id: "1217175518781243583",
+      },
+      {
+        sku_id: "1226939756617793606",
+        store_listing_id: "1226937118748577926",
+        banner: "1217260346872430592",
+        name: "Mokoko",
+        summary:
+          "An affectionate Mokoko wants to give you plenty of hugs! Exclusive to Mokoko Quest 2024 for a limited time.",
+        unpublished_at: null,
+        styles: {
+          background_colors: [4620287, 1396431],
+          button_colors: [4507647, 40447],
+          confetti_colors: [4047871, 2718463, 16616447, 16727029],
+        },
+        currency: "usd",
+        price: 0,
+        prices: {
+          0: {
+            countryPrices: {
+              country_code: "MA",
+              prices: [
+                {
+                  amount: 0,
+                  currency: "usd",
+                  exponent: 2,
+                },
+              ],
+            },
+          },
+          4: {
+            countryPrices: {
+              country_code: "MA",
+              prices: [
+                {
+                  amount: 0,
+                  currency: "usd",
+                  exponent: 2,
+                },
+              ],
+            },
+          },
+          5: {
+            countryPrices: {
+              country_code: "MA",
+              prices: [
+                {
+                  amount: 0,
+                  currency: "usd",
+                  exponent: 2,
+                },
+              ],
+            },
+          },
+          7: {
+            countryPrices: {
+              country_code: "MA",
+              prices: [
+                {
+                  amount: 0,
+                  currency: "usd",
+                  exponent: 2,
+                },
+              ],
+            },
+          },
+        },
+        items: [
+          {
+            type: 0,
+            id: "1226939813651943514",
+            sku_id: "1226939756617793606",
+            asset: "a_89cd445201a0c6c64d46876503d0e90e",
+            label:
+              "An affectionate Mokoko hugs the avatar then slides down and climbs back up to hug the avatar again.",
+          },
+        ],
+        type: 0,
+        premium_type: 0,
+        category_sku_id: "1217175518781243583",
+      },
+    ],
+  },
 ];
 
 const previews = {
