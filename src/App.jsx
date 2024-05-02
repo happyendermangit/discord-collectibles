@@ -58,7 +58,7 @@ function App() {
 
   return (
     <>
-      <button onClick={openSettingsModal}>Open modal</button>
+      <button onClick={openSettingsModal}>Open Settings</button>
       <dialog ref={modalRef} className="modal">
         <div>
           <button className="close-button" onClick={closeModal}>
