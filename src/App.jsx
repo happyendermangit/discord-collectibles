@@ -59,6 +59,7 @@ function App() {
   return (
     <>
       <button onClick={openSettingsModal}>Open Settings</button>
+      <button onClick={() => window.open("https://www.youtube.com/watch?v=gUI0N09IS-8")}>How to buy these collectibles! (Thanks to DtaCat)</button>
       <dialog ref={modalRef} className="modal">
         <div>
           <button className="close-button" onClick={closeModal}>
