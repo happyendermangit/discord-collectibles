@@ -1,812 +1,698 @@
 const collectibles = [
-     {
-        "sku_id": "1232029045928099922",
-        "store_listing_id": "1232029013543747604",
-        "banner": "1232037253274927134",
-        "name": "Galaxy",
-        "summary": "Reach for the stars.",
-        "unpublished_at": null,
-        "styles": {
-            "background_colors": [
-                1118740,
-                1118740
-            ],
-            "button_colors": [
-                5793266,
-                5793266
-            ],
-            "confetti_colors": [
-                43772,
-                15774258,
-                16414587,
-                3000177,
-                9739511
-            ]
-        },
-        "logo": "1232037193464418374",
-        "mobile_bg": "1232037338574491658",
-        "pdp_bg": "1232037364226985984",
-        "mobile_banner": "1232037387152916591",
-        "products": [
-            {
-                "sku_id": "1232070870093008937",
-                "store_listing_id": "1232070840573493308",
-                "banner": "1232037253274927134",
-                "name": "Stardust",
-                "summary": "The essence of the cosmos.",
-                "unpublished_at": null,
-                "styles": {
-                    "background_colors": [
-                        1118740,
-                        1118740
-                    ],
-                    "button_colors": [
-                        5793266,
-                        5793266
-                    ],
-                    "confetti_colors": [
-                        43772,
-                        15774258,
-                        16414587,
-                        3000177,
-                        9739511
-                    ]
-                },
-                "prices": {
-                    "0": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 599,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    },
-                    "4": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 499,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    },
-                    "5": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 599,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    },
-                    "7": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 499,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    }
-                },
-                "items": [
-                    {
-                        "type": 0,
-                        "id": "1232071069268049920",
-                        "sku_id": "1232070870093008937",
-                        "asset": "a_a47890109a231f72dae7b17b27164676",
-                        "label": "A glittering ring of colorful stardust adorns the avatar with a celestial touch."
-                    }
-                ],
-                "type": 0,
-                "premium_type": 0,
-                "category_sku_id": "1232029045928099922"
-            },
-            {
-                "sku_id": "1232071157746765906",
-                "store_listing_id": "1232071155393757204",
-                "banner": "1232037253274927134",
-                "name": "Black Hole",
-                "summary": "An enigma of matter, space, and time.",
-                "unpublished_at": null,
-                "styles": {
-                    "background_colors": [
-                        1118740,
-                        1118740
-                    ],
-                    "button_colors": [
-                        5793266,
-                        5793266
-                    ],
-                    "confetti_colors": [
-                        43772,
-                        15774258,
-                        16414587,
-                        3000177,
-                        9739511
-                    ]
-                },
-                "prices": {
-                    "0": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 599,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    },
-                    "4": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 499,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    },
-                    "5": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 599,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    },
-                    "7": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 499,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    }
-                },
-                "items": [
-                    {
-                        "type": 0,
-                        "id": "1232071159860822117",
-                        "sku_id": "1232071157746765906",
-                        "asset": "a_6d16b27d9415cafe3b289053644337c4",
-                        "label": "A mesmerizing dark hole swirls around the avatar, drawing everyone into its mysterious depths."
-                    }
-                ],
-                "type": 0,
-                "premium_type": 0,
-                "category_sku_id": "1232029045928099922"
-            },
-            {
-                "sku_id": "1232071712695386162",
-                "store_listing_id": "1232071710233333870",
-                "banner": "1232037253274927134",
-                "name": "Constellations",
-                "summary": "What secrets do the stars reveal?",
-                "unpublished_at": null,
-                "styles": {
-                    "background_colors": [
-                        1118740,
-                        1118740
-                    ],
-                    "button_colors": [
-                        5793266,
-                        5793266
-                    ],
-                    "confetti_colors": [
-                        43772,
-                        15774258,
-                        16414587,
-                        3000177,
-                        9739511
-                    ]
-                },
-                "prices": {
-                    "0": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 599,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    },
-                    "4": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 499,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    },
-                    "5": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 599,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    },
-                    "7": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 499,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    }
-                },
-                "items": [
-                    {
-                        "type": 0,
-                        "id": "1232071714909847682",
-                        "sku_id": "1232071712695386162",
-                        "asset": "a_8552f9857793aed0cf816f370e2df3be",
-                        "label": "Star constellations decorate the avatar, inviting profile admirers for a fun session of stargazing."
-                    }
-                ],
-                "type": 0,
-                "premium_type": 0,
-                "category_sku_id": "1232029045928099922"
-            },
-            {
-                "sku_id": "1232072121950146560",
-                "store_listing_id": "1232072119601332275",
-                "banner": "1232037253274927134",
-                "name": "Solar Orbit",
-                "summary": "An eternal dance of fiery passion.",
-                "unpublished_at": null,
-                "styles": {
-                    "background_colors": [
-                        1118740,
-                        1118740
-                    ],
-                    "button_colors": [
-                        5793266,
-                        5793266
-                    ],
-                    "confetti_colors": [
-                        43772,
-                        15774258,
-                        16414587,
-                        3000177,
-                        9739511
-                    ]
-                },
-                "prices": {
-                    "0": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 599,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    },
-                    "4": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 499,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    },
-                    "5": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 599,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    },
-                    "7": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 499,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    }
-                },
-                "items": [
-                    {
-                        "type": 0,
-                        "id": "1232072123950956635",
-                        "sku_id": "1232072121950146560",
-                        "asset": "a_9a6bf0ab30a6719d6eb09fa4996984ca",
-                        "label": "Three planets orbit around an avatar engulfed by solar flames."
-                    }
-                ],
-                "type": 0,
-                "premium_type": 0,
-                "category_sku_id": "1232029045928099922"
-            },
-            {
-                "sku_id": "1232072520249643028",
-                "store_listing_id": "1232072517624004709",
-                "banner": "1232037253274927134",
-                "name": "UFO",
-                "summary": "The perfect ride for any grab-and-go heist.",
-                "unpublished_at": null,
-                "styles": {
-                    "background_colors": [
-                        1118740,
-                        1118740
-                    ],
-                    "button_colors": [
-                        5793266,
-                        5793266
-                    ],
-                    "confetti_colors": [
-                        43772,
-                        15774258,
-                        16414587,
-                        3000177,
-                        9739511
-                    ]
-                },
-                "prices": {
-                    "0": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 599,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    },
-                    "4": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 499,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    },
-                    "5": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 599,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    },
-                    "7": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 499,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    }
-                },
-                "items": [
-                    {
-                        "type": 0,
-                        "id": "1232072522690854964",
-                        "sku_id": "1232072520249643028",
-                        "asset": "a_6fdbddb6229453eac3bbb212edf5cd1c",
-                        "label": "A UFO appears and emits an abduction beam before flying away... talk about a grab-and-go."
-                    }
-                ],
-                "type": 0,
-                "premium_type": 0,
-                "category_sku_id": "1232029045928099922"
-            },
-            {
-                "sku_id": "1232072859485208687",
-                "store_listing_id": "1232072857023156396",
-                "banner": "1232037253274927134",
-                "name": "Astronaut Helmet",
-                "summary": "Always wear your helmet.",
-                "unpublished_at": null,
-                "styles": {
-                    "background_colors": [
-                        1118740,
-                        1118740
-                    ],
-                    "button_colors": [
-                        5793266,
-                        5793266
-                    ],
-                    "confetti_colors": [
-                        43772,
-                        15774258,
-                        16414587,
-                        3000177,
-                        9739511
-                    ]
-                },
-                "prices": {
-                    "0": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 599,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    },
-                    "4": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 499,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    },
-                    "5": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 599,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    },
-                    "7": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 499,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    }
-                },
-                "items": [
-                    {
-                        "type": 0,
-                        "id": "1232072861636755466",
-                        "sku_id": "1232072859485208687",
-                        "asset": "a_c9b84ee80a335a9d59b69352e34574f6",
-                        "label": "The avatar wears an astronaut helmet. Protecting your head is always a good look."
-                    }
-                ],
-                "type": 0,
-                "premium_type": 0,
-                "category_sku_id": "1232029045928099922"
-            },
-            {
-                "sku_id": "1232073286582538261",
-                "store_listing_id": "1232073284086923355",
-                "banner": "1232037253274927134",
-                "name": "Shooting Stars",
-                "summary": "May your wish come true.",
-                "unpublished_at": null,
-                "styles": {
-                    "background_colors": [
-                        1118740,
-                        1118740
-                    ],
-                    "button_colors": [
-                        5793266,
-                        5793266
-                    ],
-                    "confetti_colors": [
-                        43772,
-                        15774258,
-                        16414587,
-                        3000177,
-                        9739511
-                    ]
-                },
-                "prices": {
-                    "0": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 599,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    },
-                    "4": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 499,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    },
-                    "5": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 599,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    },
-                    "7": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 499,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    }
-                },
-                "items": [
-                    {
-                        "type": 1,
-                        "id": "1232073288814035094",
-                        "sku_id": "1232073286582538261"
-                    }
-                ],
-                "type": 1,
-                "premium_type": 0,
-                "category_sku_id": "1232029045928099922"
-            },
-            {
-                "sku_id": "1232073448415821854",
-                "store_listing_id": "1232073445647319059",
-                "banner": "1232037253274927134",
-                "name": "Supernova",
-                "summary": "Light up the cosmos.",
-                "unpublished_at": null,
-                "styles": {
-                    "background_colors": [
-                        1118740,
-                        1118740
-                    ],
-                    "button_colors": [
-                        5793266,
-                        5793266
-                    ],
-                    "confetti_colors": [
-                        43772,
-                        15774258,
-                        16414587,
-                        3000177,
-                        9739511
-                    ]
-                },
-                "prices": {
-                    "0": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 599,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    },
-                    "4": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 499,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    },
-                    "5": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 599,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    },
-                    "7": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 499,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    }
-                },
-                "items": [
-                    {
-                        "type": 1,
-                        "id": "1232073451003580446",
-                        "sku_id": "1232073448415821854"
-                    }
-                ],
-                "type": 1,
-                "premium_type": 0,
-                "category_sku_id": "1232029045928099922"
-            },
-            {
-                "sku_id": "1232073608168472638",
-                "store_listing_id": "1232073605811011775",
-                "banner": "1232037253274927134",
-                "name": "Twilight",
-                "summary": "Is the universe winking at me?",
-                "unpublished_at": null,
-                "styles": {
-                    "background_colors": [
-                        1118740,
-                        1118740
-                    ],
-                    "button_colors": [
-                        5793266,
-                        5793266
-                    ],
-                    "confetti_colors": [
-                        43772,
-                        15774258,
-                        16414587,
-                        3000177,
-                        9739511
-                    ]
-                },
-                "prices": {
-                    "0": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 599,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    },
-                    "4": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 499,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    },
-                    "5": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 599,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    },
-                    "7": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 499,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    }
-                },
-                "items": [
-                    {
-                        "type": 1,
-                        "id": "1232073610194190366",
-                        "sku_id": "1232073608168472638"
-                    }
-                ],
-                "type": 1,
-                "premium_type": 0,
-                "category_sku_id": "1232029045928099922"
-            }
-        ]
+  {
+    sku_id: "1232029045928099922",
+    store_listing_id: "1232029013543747604",
+    banner: "1232037253274927134",
+    name: "Galaxy",
+    summary: "Reach for the stars.",
+    unpublished_at: null,
+    styles: {
+      background_colors: [1118740, 1118740],
+      button_colors: [5793266, 5793266],
+      confetti_colors: [43772, 15774258, 16414587, 3000177, 9739511],
     },
+    logo: "1232037193464418374",
+    mobile_bg: "1232037338574491658",
+    pdp_bg: "1232037364226985984",
+    mobile_banner: "1232037387152916591",
+    products: [
+      {
+        sku_id: "1232070870093008937",
+        store_listing_id: "1232070840573493308",
+        banner: "1232037253274927134",
+        name: "Stardust",
+        summary: "The essence of the cosmos.",
+        unpublished_at: null,
+        styles: {
+          background_colors: [1118740, 1118740],
+          button_colors: [5793266, 5793266],
+          confetti_colors: [43772, 15774258, 16414587, 3000177, 9739511],
+        },
+        prices: {
+          0: {
+            countryPrices: {
+              country_code: "US",
+              prices: [
+                {
+                  amount: 599,
+                  currency: "usd",
+                  exponent: 2,
+                },
+              ],
+            },
+          },
+          4: {
+            countryPrices: {
+              country_code: "US",
+              prices: [
+                {
+                  amount: 499,
+                  currency: "usd",
+                  exponent: 2,
+                },
+              ],
+            },
+          },
+          5: {
+            countryPrices: {
+              country_code: "US",
+              prices: [
+                {
+                  amount: 599,
+                  currency: "usd",
+                  exponent: 2,
+                },
+              ],
+            },
+          },
+          7: {
+            countryPrices: {
+              country_code: "US",
+              prices: [
+                {
+                  amount: 499,
+                  currency: "usd",
+                  exponent: 2,
+                },
+              ],
+            },
+          },
+        },
+        items: [
+          {
+            type: 0,
+            id: "1232071069268049920",
+            sku_id: "1232070870093008937",
+            asset: "a_a47890109a231f72dae7b17b27164676",
+            label:
+              "A glittering ring of colorful stardust adorns the avatar with a celestial touch.",
+          },
+        ],
+        type: 0,
+        premium_type: 0,
+        category_sku_id: "1232029045928099922",
+      },
+      {
+        sku_id: "1232071157746765906",
+        store_listing_id: "1232071155393757204",
+        banner: "1232037253274927134",
+        name: "Black Hole",
+        summary: "An enigma of matter, space, and time.",
+        unpublished_at: null,
+        styles: {
+          background_colors: [1118740, 1118740],
+          button_colors: [5793266, 5793266],
+          confetti_colors: [43772, 15774258, 16414587, 3000177, 9739511],
+        },
+        prices: {
+          0: {
+            countryPrices: {
+              country_code: "US",
+              prices: [
+                {
+                  amount: 599,
+                  currency: "usd",
+                  exponent: 2,
+                },
+              ],
+            },
+          },
+          4: {
+            countryPrices: {
+              country_code: "US",
+              prices: [
+                {
+                  amount: 499,
+                  currency: "usd",
+                  exponent: 2,
+                },
+              ],
+            },
+          },
+          5: {
+            countryPrices: {
+              country_code: "US",
+              prices: [
+                {
+                  amount: 599,
+                  currency: "usd",
+                  exponent: 2,
+                },
+              ],
+            },
+          },
+          7: {
+            countryPrices: {
+              country_code: "US",
+              prices: [
+                {
+                  amount: 499,
+                  currency: "usd",
+                  exponent: 2,
+                },
+              ],
+            },
+          },
+        },
+        items: [
+          {
+            type: 0,
+            id: "1232071159860822117",
+            sku_id: "1232071157746765906",
+            asset: "a_6d16b27d9415cafe3b289053644337c4",
+            label:
+              "A mesmerizing dark hole swirls around the avatar, drawing everyone into its mysterious depths.",
+          },
+        ],
+        type: 0,
+        premium_type: 0,
+        category_sku_id: "1232029045928099922",
+      },
+      {
+        sku_id: "1232071712695386162",
+        store_listing_id: "1232071710233333870",
+        banner: "1232037253274927134",
+        name: "Constellations",
+        summary: "What secrets do the stars reveal?",
+        unpublished_at: null,
+        styles: {
+          background_colors: [1118740, 1118740],
+          button_colors: [5793266, 5793266],
+          confetti_colors: [43772, 15774258, 16414587, 3000177, 9739511],
+        },
+        prices: {
+          0: {
+            countryPrices: {
+              country_code: "US",
+              prices: [
+                {
+                  amount: 599,
+                  currency: "usd",
+                  exponent: 2,
+                },
+              ],
+            },
+          },
+          4: {
+            countryPrices: {
+              country_code: "US",
+              prices: [
+                {
+                  amount: 499,
+                  currency: "usd",
+                  exponent: 2,
+                },
+              ],
+            },
+          },
+          5: {
+            countryPrices: {
+              country_code: "US",
+              prices: [
+                {
+                  amount: 599,
+                  currency: "usd",
+                  exponent: 2,
+                },
+              ],
+            },
+          },
+          7: {
+            countryPrices: {
+              country_code: "US",
+              prices: [
+                {
+                  amount: 499,
+                  currency: "usd",
+                  exponent: 2,
+                },
+              ],
+            },
+          },
+        },
+        items: [
+          {
+            type: 0,
+            id: "1232071714909847682",
+            sku_id: "1232071712695386162",
+            asset: "a_8552f9857793aed0cf816f370e2df3be",
+            label:
+              "Star constellations decorate the avatar, inviting profile admirers for a fun session of stargazing.",
+          },
+        ],
+        type: 0,
+        premium_type: 0,
+        category_sku_id: "1232029045928099922",
+      },
+      {
+        sku_id: "1232072121950146560",
+        store_listing_id: "1232072119601332275",
+        banner: "1232037253274927134",
+        name: "Solar Orbit",
+        summary: "An eternal dance of fiery passion.",
+        unpublished_at: null,
+        styles: {
+          background_colors: [1118740, 1118740],
+          button_colors: [5793266, 5793266],
+          confetti_colors: [43772, 15774258, 16414587, 3000177, 9739511],
+        },
+        prices: {
+          0: {
+            countryPrices: {
+              country_code: "US",
+              prices: [
+                {
+                  amount: 599,
+                  currency: "usd",
+                  exponent: 2,
+                },
+              ],
+            },
+          },
+          4: {
+            countryPrices: {
+              country_code: "US",
+              prices: [
+                {
+                  amount: 499,
+                  currency: "usd",
+                  exponent: 2,
+                },
+              ],
+            },
+          },
+          5: {
+            countryPrices: {
+              country_code: "US",
+              prices: [
+                {
+                  amount: 599,
+                  currency: "usd",
+                  exponent: 2,
+                },
+              ],
+            },
+          },
+          7: {
+            countryPrices: {
+              country_code: "US",
+              prices: [
+                {
+                  amount: 499,
+                  currency: "usd",
+                  exponent: 2,
+                },
+              ],
+            },
+          },
+        },
+        items: [
+          {
+            type: 0,
+            id: "1232072123950956635",
+            sku_id: "1232072121950146560",
+            asset: "a_9a6bf0ab30a6719d6eb09fa4996984ca",
+            label:
+              "Three planets orbit around an avatar engulfed by solar flames.",
+          },
+        ],
+        type: 0,
+        premium_type: 0,
+        category_sku_id: "1232029045928099922",
+      },
+      {
+        sku_id: "1232072520249643028",
+        store_listing_id: "1232072517624004709",
+        banner: "1232037253274927134",
+        name: "UFO",
+        summary: "The perfect ride for any grab-and-go heist.",
+        unpublished_at: null,
+        styles: {
+          background_colors: [1118740, 1118740],
+          button_colors: [5793266, 5793266],
+          confetti_colors: [43772, 15774258, 16414587, 3000177, 9739511],
+        },
+        prices: {
+          0: {
+            countryPrices: {
+              country_code: "US",
+              prices: [
+                {
+                  amount: 599,
+                  currency: "usd",
+                  exponent: 2,
+                },
+              ],
+            },
+          },
+          4: {
+            countryPrices: {
+              country_code: "US",
+              prices: [
+                {
+                  amount: 499,
+                  currency: "usd",
+                  exponent: 2,
+                },
+              ],
+            },
+          },
+          5: {
+            countryPrices: {
+              country_code: "US",
+              prices: [
+                {
+                  amount: 599,
+                  currency: "usd",
+                  exponent: 2,
+                },
+              ],
+            },
+          },
+          7: {
+            countryPrices: {
+              country_code: "US",
+              prices: [
+                {
+                  amount: 499,
+                  currency: "usd",
+                  exponent: 2,
+                },
+              ],
+            },
+          },
+        },
+        items: [
+          {
+            type: 0,
+            id: "1232072522690854964",
+            sku_id: "1232072520249643028",
+            asset: "a_6fdbddb6229453eac3bbb212edf5cd1c",
+            label:
+              "A UFO appears and emits an abduction beam before flying away... talk about a grab-and-go.",
+          },
+        ],
+        type: 0,
+        premium_type: 0,
+        category_sku_id: "1232029045928099922",
+      },
+      {
+        sku_id: "1232072859485208687",
+        store_listing_id: "1232072857023156396",
+        banner: "1232037253274927134",
+        name: "Astronaut Helmet",
+        summary: "Always wear your helmet.",
+        unpublished_at: null,
+        styles: {
+          background_colors: [1118740, 1118740],
+          button_colors: [5793266, 5793266],
+          confetti_colors: [43772, 15774258, 16414587, 3000177, 9739511],
+        },
+        prices: {
+          0: {
+            countryPrices: {
+              country_code: "US",
+              prices: [
+                {
+                  amount: 599,
+                  currency: "usd",
+                  exponent: 2,
+                },
+              ],
+            },
+          },
+          4: {
+            countryPrices: {
+              country_code: "US",
+              prices: [
+                {
+                  amount: 499,
+                  currency: "usd",
+                  exponent: 2,
+                },
+              ],
+            },
+          },
+          5: {
+            countryPrices: {
+              country_code: "US",
+              prices: [
+                {
+                  amount: 599,
+                  currency: "usd",
+                  exponent: 2,
+                },
+              ],
+            },
+          },
+          7: {
+            countryPrices: {
+              country_code: "US",
+              prices: [
+                {
+                  amount: 499,
+                  currency: "usd",
+                  exponent: 2,
+                },
+              ],
+            },
+          },
+        },
+        items: [
+          {
+            type: 0,
+            id: "1232072861636755466",
+            sku_id: "1232072859485208687",
+            asset: "a_c9b84ee80a335a9d59b69352e34574f6",
+            label:
+              "The avatar wears an astronaut helmet. Protecting your head is always a good look.",
+          },
+        ],
+        type: 0,
+        premium_type: 0,
+        category_sku_id: "1232029045928099922",
+      },
+      {
+        sku_id: "1232073286582538261",
+        store_listing_id: "1232073284086923355",
+        banner: "1232037253274927134",
+        name: "Shooting Stars",
+        summary: "May your wish come true.",
+        unpublished_at: null,
+        styles: {
+          background_colors: [1118740, 1118740],
+          button_colors: [5793266, 5793266],
+          confetti_colors: [43772, 15774258, 16414587, 3000177, 9739511],
+        },
+        prices: {
+          0: {
+            countryPrices: {
+              country_code: "US",
+              prices: [
+                {
+                  amount: 599,
+                  currency: "usd",
+                  exponent: 2,
+                },
+              ],
+            },
+          },
+          4: {
+            countryPrices: {
+              country_code: "US",
+              prices: [
+                {
+                  amount: 499,
+                  currency: "usd",
+                  exponent: 2,
+                },
+              ],
+            },
+          },
+          5: {
+            countryPrices: {
+              country_code: "US",
+              prices: [
+                {
+                  amount: 599,
+                  currency: "usd",
+                  exponent: 2,
+                },
+              ],
+            },
+          },
+          7: {
+            countryPrices: {
+              country_code: "US",
+              prices: [
+                {
+                  amount: 499,
+                  currency: "usd",
+                  exponent: 2,
+                },
+              ],
+            },
+          },
+        },
+        items: [
+          {
+            type: 1,
+            id: "1232073288814035094",
+            sku_id: "1232073286582538261",
+          },
+        ],
+        type: 1,
+        premium_type: 0,
+        category_sku_id: "1232029045928099922",
+      },
+      {
+        sku_id: "1232073448415821854",
+        store_listing_id: "1232073445647319059",
+        banner: "1232037253274927134",
+        name: "Supernova",
+        summary: "Light up the cosmos.",
+        unpublished_at: null,
+        styles: {
+          background_colors: [1118740, 1118740],
+          button_colors: [5793266, 5793266],
+          confetti_colors: [43772, 15774258, 16414587, 3000177, 9739511],
+        },
+        prices: {
+          0: {
+            countryPrices: {
+              country_code: "US",
+              prices: [
+                {
+                  amount: 599,
+                  currency: "usd",
+                  exponent: 2,
+                },
+              ],
+            },
+          },
+          4: {
+            countryPrices: {
+              country_code: "US",
+              prices: [
+                {
+                  amount: 499,
+                  currency: "usd",
+                  exponent: 2,
+                },
+              ],
+            },
+          },
+          5: {
+            countryPrices: {
+              country_code: "US",
+              prices: [
+                {
+                  amount: 599,
+                  currency: "usd",
+                  exponent: 2,
+                },
+              ],
+            },
+          },
+          7: {
+            countryPrices: {
+              country_code: "US",
+              prices: [
+                {
+                  amount: 499,
+                  currency: "usd",
+                  exponent: 2,
+                },
+              ],
+            },
+          },
+        },
+        items: [
+          {
+            type: 1,
+            id: "1232073451003580446",
+            sku_id: "1232073448415821854",
+          },
+        ],
+        type: 1,
+        premium_type: 0,
+        category_sku_id: "1232029045928099922",
+      },
+      {
+        sku_id: "1232073608168472638",
+        store_listing_id: "1232073605811011775",
+        banner: "1232037253274927134",
+        name: "Twilight",
+        summary: "Is the universe winking at me?",
+        unpublished_at: null,
+        styles: {
+          background_colors: [1118740, 1118740],
+          button_colors: [5793266, 5793266],
+          confetti_colors: [43772, 15774258, 16414587, 3000177, 9739511],
+        },
+        prices: {
+          0: {
+            countryPrices: {
+              country_code: "US",
+              prices: [
+                {
+                  amount: 599,
+                  currency: "usd",
+                  exponent: 2,
+                },
+              ],
+            },
+          },
+          4: {
+            countryPrices: {
+              country_code: "US",
+              prices: [
+                {
+                  amount: 499,
+                  currency: "usd",
+                  exponent: 2,
+                },
+              ],
+            },
+          },
+          5: {
+            countryPrices: {
+              country_code: "US",
+              prices: [
+                {
+                  amount: 599,
+                  currency: "usd",
+                  exponent: 2,
+                },
+              ],
+            },
+          },
+          7: {
+            countryPrices: {
+              country_code: "US",
+              prices: [
+                {
+                  amount: 499,
+                  currency: "usd",
+                  exponent: 2,
+                },
+              ],
+            },
+          },
+        },
+        items: [
+          {
+            type: 1,
+            id: "1232073610194190366",
+            sku_id: "1232073608168472638",
+          },
+        ],
+        type: 1,
+        premium_type: 0,
+        category_sku_id: "1232029045928099922",
+      },
+    ],
+  },
   {
     storeListingId: "1228243823310802955",
     sku_id: "1228243842684162121",
@@ -15761,7 +15647,8 @@ const collectibles = [
     storeListingId: "1217175518781243583",
     sku_id: "1217175518781243583",
     name: "Uncategorized",
-    summary: "Items that were for an event, you might not be even able to buy them.",
+    summary:
+      "Items that were for an event, you might not be even able to buy them.",
     banner: "uncat_banner",
     logo: "uncat_logo",
     unpublishedAt: null,
@@ -16007,6 +15894,12 @@ const collectibles = [
 ];
 
 const previews = {
+  "Shooting Stars":
+    "https://cdn.discordapp.com/assets/profile_effects/effects/2024-04-22/shooting-stars/thumbnail.png",
+  Supernova:
+    "https://cdn.discordapp.com/assets/profile_effects/effects/2024-04-22/supernova/thumbnail.png",
+  Twilight:
+    "https://cdn.discordapp.com/assets/profile_effects/effects/2024-04-22/twilight/thumbnail.png",
   "Study Spot":
     "https://cdn.discordapp.com/assets/profile_effects/effects/2024-04-04/study-spot/thumbnail.png",
   "All Nighter":
